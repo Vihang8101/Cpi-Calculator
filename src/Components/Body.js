@@ -80,7 +80,7 @@ var Percentange;
                 
                 </div>
                 <div className="card-footer  text-muted" id='card'>
-                    <h1>CopyRight </h1>
+                    <h1>Copyright ©<a href='http://vihang8101.github.io'> Vihang Patel</a></h1>
                 </div>
             </div>
         </div>
